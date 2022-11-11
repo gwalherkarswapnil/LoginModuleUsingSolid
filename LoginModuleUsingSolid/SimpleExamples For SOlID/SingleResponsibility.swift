@@ -6,8 +6,6 @@
 //
 
 //At this point all of these methods are coupled into a single Student class that is used by different groups of users.
-
-
 import Foundation
 
 // Types of CaR CAN BE Drivable, Maintainable, and Comfortable
