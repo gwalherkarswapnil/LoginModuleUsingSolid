@@ -1,0 +1,6 @@
+framework module Pods_LoginModuleUsingSolid {
+  umbrella header "Pods-LoginModuleUsingSolid-umbrella.h"
+
+  export *
+  module * { export * }
+}

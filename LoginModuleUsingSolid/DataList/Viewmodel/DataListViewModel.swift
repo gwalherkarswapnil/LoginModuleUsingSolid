@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+struct DataListViewModel {
+    func fetchDataPostlist() {
+//        NetworkingManager.sh
+    }
+}

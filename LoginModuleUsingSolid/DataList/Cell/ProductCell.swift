@@ -8,7 +8,7 @@
 import UIKit
 
 class ProductCell: UITableViewCell {
-
+    static var reuseID = "ProductCell"
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

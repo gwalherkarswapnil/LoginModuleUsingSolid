@@ -8,6 +8,7 @@
 import UIKit
 
 class AddCell: UITableViewCell {
+    static var reuseID = "AddCell"
 
     override func awakeFromNib() {
         super.awakeFromNib()
